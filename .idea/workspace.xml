@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e79536da-d90a-44ba-83f6-f278df3c3a3f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/hdt6/Carta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hdt6/Carta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hdt6/Coleccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hdt6/Coleccion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hdt6/Fac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hdt6/Fac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hdt6/HDT6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hdt6/HDT6.java" afterDir="false" />
-    </list>
+    <list default="true" id="79471224-dc9c-40c1-9527-cade4d7b7fbf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="26CEA6mCGzCgrF3JwaPsG8Scs9k" />
+  <component name="ProjectId" id="26CHT8eP847JXJls8aYW34I281N" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
   <component name="RunManager">
     <configuration name="HDT6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HDT6" />
-      <module name="HDT6_AED" />
+      <module name="HT6_AED" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -46,11 +47,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e79536da-d90a-44ba-83f6-f278df3c3a3f" name="Changes" comment="" />
-      <created>1646919022870</created>
+      <changelist id="79471224-dc9c-40c1-9527-cade4d7b7fbf" name="Changes" comment="" />
+      <created>1646920656022</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1646919022870</updated>
+      <updated>1646920656022</updated>
     </task>
     <servers />
   </component>
