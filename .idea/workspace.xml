@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79471224-dc9c-40c1-9527-cade4d7b7fbf" name="Changes" comment="" />
+    <list default="true" id="79471224-dc9c-40c1-9527-cade4d7b7fbf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDT-6 AED/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HDT-6 AED/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards_desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Carta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coleccion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HDT6.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -25,6 +36,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -37,6 +50,42 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="bbPath" value="" />
+      <setting name="parameters" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <setting name="workingDir" value="" />
+      <setting name="focusEditor" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
@@ -52,7 +101,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646920656022</updated>
+      <workItem from="1647035776919" duration="292000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
